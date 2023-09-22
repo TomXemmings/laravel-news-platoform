@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url('public/assets/font/Comfortaa-Regular.ttf');
+}
+
+* {
+    font-family: Comfortaa, serif;
+}
