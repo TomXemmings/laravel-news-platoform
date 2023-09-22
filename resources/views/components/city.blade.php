@@ -1,0 +1,1 @@
+<img class="p-5 w-4/5 h-4/5" src="{{asset('assets/map/map'.app('request')->input('district').'.svg')}}" alt="">
